@@ -1,6 +1,9 @@
-# Server Stats Script
+# Server Stats Project
 
-This script (`server-stats.sh`) analyzes basic server performance stats on a Linux system.
+This is a project to analyse basic server performance stats.
+
+Project URL:
+https://github.com/Nirpesh551/server-stats
 
 ## Requirements
 - A Linux server (e.g., Ubuntu, Arch, Kali, CentOS)
