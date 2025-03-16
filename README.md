@@ -2,8 +2,8 @@
 
 This is a project to analyse basic server performance stats.
 
-Project URL:
-https://github.com/Nirpesh551/server-stats
+## project url:
+https://github.com/Nirpesh551/server-stats.git
 
 ## Requirements
 - A Linux server (e.g., Ubuntu, Arch, Kali, CentOS)
